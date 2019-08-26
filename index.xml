@@ -7,44 +7,90 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Ludvig af Klinteberg</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ludvigak.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Publications</title>
-      <link>https://ludvigak.github.io/publication/</link>
+      <title>A Fast Integral Equation Method for the Two-Dimensional Navier-Stokes Equations</title>
+      <link>https://ludvigak.github.io/publication/2019-nse2d/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludvigak.github.io/publication/2019-nse2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A parallel non-uniform fast Fourier transform library based on an &#34;exponential of semicircle&#34; kernel</title>
+      <link>https://ludvigak.github.io/publication/2018-finufft/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ludvigak.github.io/publication/</guid>
+      <guid>https://ludvigak.github.io/publication/2018-finufft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Adaptive Quadrature by Expansion for Layer Potential Evaluation in Two Dimensions</title>
+      <link>https://ludvigak.github.io/publication/2018-aqbx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid></guid>
+      <guid>https://ludvigak.github.io/publication/2018-aqbx/</guid>
+      <description>&lt;p&gt;Copyright of final published version belongs Society for Industrial and Applied Mathematics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Ewald summation for free-space Stokes potentials</title>
+      <link>https://ludvigak.github.io/publication/2016-fse/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludvigak.github.io/publication/2016-fse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://ludvigak.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Error estimation for quadrature by expansion in layer potential evaluation</title>
+      <link>https://ludvigak.github.io/publication/2017-quad/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ludvigak.github.io/post/</guid>
+      <guid>https://ludvigak.github.io/publication/2017-quad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ludvigak.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>A fast integral equation method for solid particles in viscous flow using quadrature by expansion</title>
+      <link>https://ludvigak.github.io/publication/2016-qbx/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ludvigak.github.io/talk/</guid>
+      <guid>https://ludvigak.github.io/publication/2016-qbx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ewald summation for the rotlet singularity of Stokes flow</title>
+      <link>https://ludvigak.github.io/publication/2016-rot/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludvigak.github.io/publication/2016-rot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An explicit Eulerian method for multiphase flow with contact line dynamics and insoluble surfactant</title>
+      <link>https://ludvigak.github.io/publication/2014-pug/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludvigak.github.io/publication/2014-pug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Ewald summation for Stokesian particle suspensions</title>
+      <link>https://ludvigak.github.io/publication/2014-ewald/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludvigak.github.io/publication/2014-ewald/</guid>
       <description></description>
     </item>
     

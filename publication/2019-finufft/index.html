@@ -30,7 +30,7 @@
   <meta name="description" content="The nonuniform fast Fourier transform (NUFFT) generalizes the FFT to off-grid data. Its many applications include image reconstruction, data analysis, and the numerical solution of differential equations. We present FINUFFT, an efficient parallel library for type 1 (nonuiform to uniform), type 2 (uniform to nonuniform), or type 3 (nonuniform to nonuniform) transforms, in dimensions 1, 2, or 3. It uses minimal RAM, requires no precomputation or plan steps, and has a simple interface to several languages. We perform the expensive spreading/interpolation between nonuniform points and the fine grid via a simple new kernel---the `exponential of semicircle&#39; $e^{β \sqrt{1-x^2}}$ in $x \in [-1,1]$---in a cache-aware load-balanced multithreaded implementation. The deconvolution step requires the Fourier transform of the kernel, for which we propose efficient numerical quadrature. For types 1 and 2, rigorous error bounds asymptotic in the kernel width approach the fastest known exponential rate, namely that of the Kaiser--Bessel kernel. We benchmark against several popular CPU-based libraries, showing favorable speed and memory footprint, especially in three dimensions when high accuracy and/or clustered point distributions are desired.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ludvigak.github.io/publication/2018-finufft/">
+  <link rel="alternate" hreflang="en-us" href="https://ludvigak.github.io/publication/2019-finufft/">
 
   
 
@@ -95,7 +95,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ludvigak.github.io/publication/2018-finufft/">
+  <link rel="canonical" href="https://ludvigak.github.io/publication/2019-finufft/">
 
   
   
@@ -107,14 +107,14 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Ludvig af Klinteberg">
-  <meta property="og:url" content="https://ludvigak.github.io/publication/2018-finufft/">
+  <meta property="og:url" content="https://ludvigak.github.io/publication/2019-finufft/">
   <meta property="og:title" content="A parallel non-uniform fast Fourier transform library based on an &#34;exponential of semicircle&#34; kernel | Ludvig af Klinteberg">
   <meta property="og:description" content="The nonuniform fast Fourier transform (NUFFT) generalizes the FFT to off-grid data. Its many applications include image reconstruction, data analysis, and the numerical solution of differential equations. We present FINUFFT, an efficient parallel library for type 1 (nonuiform to uniform), type 2 (uniform to nonuniform), or type 3 (nonuniform to nonuniform) transforms, in dimensions 1, 2, or 3. It uses minimal RAM, requires no precomputation or plan steps, and has a simple interface to several languages. We perform the expensive spreading/interpolation between nonuniform points and the fine grid via a simple new kernel---the `exponential of semicircle&#39; $e^{β \sqrt{1-x^2}}$ in $x \in [-1,1]$---in a cache-aware load-balanced multithreaded implementation. The deconvolution step requires the Fourier transform of the kernel, for which we propose efficient numerical quadrature. For types 1 and 2, rigorous error bounds asymptotic in the kernel width approach the fastest known exponential rate, namely that of the Kaiser--Bessel kernel. We benchmark against several popular CPU-based libraries, showing favorable speed and memory footprint, especially in three dimensions when high accuracy and/or clustered point distributions are desired."><meta property="og:image" content="https://ludvigak.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-05-31T19:23:26&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-08-01T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2019-09-01T00:00:00&#43;00:00">
   
 
   
@@ -330,8 +330,8 @@
 
 
 
-<meta content="2018-08-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-08-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2019-09-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-09-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -356,7 +356,7 @@
     
       
     
-    <time>August 2018</time>
+    <time>September 2019</time>
   </span>
   
 
@@ -438,14 +438,6 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/1808.06736" target="_blank" rel="noopener">
-  Preprint
-</a>
-
 
 
 
@@ -475,6 +467,27 @@
 
 
 
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1137/18M120885X" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/publication/2019-finufft/2019_finufft_sisc.pdf" >
+    <i class="ai ai-open-access mr-1"></i>
+    PDF
+  </a>
 
 
 </div>
@@ -501,8 +514,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -519,7 +532,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>arXiv:1808.06736 [math.NA]</em></div>
+          <div class="col-12 col-md-9"><em>SIAM J. Sci. Comput.</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -529,7 +542,8 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><p>Copyright of final published version belongs Society for Industrial and Applied Mathematics.</p>
+</div>
 
     
 

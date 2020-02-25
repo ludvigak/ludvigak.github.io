@@ -1,10 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://ludvigak.github.io/publication_types/2/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/publication/2020-nse2d/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/authors/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/authors/ludvig-af-klinteberg/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/authors/mary-catherine-kropinski/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/publication_types/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/publication/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ludvigak.github.io/authors/travis-askham/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,42 +58,12 @@
   </url>
   
   <url>
-    <loc>https://ludvigak.github.io/authors/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ludvigak.github.io/authors/jeremy-f.-magland/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ludvigak.github.io/authors/ludvig-af-klinteberg/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ludvigak.github.io/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ludvigak.github.io/publication_types/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ludvigak.github.io/publication/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ludvigak.github.io/publication_types/3/</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ludvigak.github.io/publication/2019-nse2d/</loc>
     <lastmod>2019-08-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,16 +79,6 @@
   
   <url>
     <loc>https://ludvigak.github.io/authors/fredrik-fryklund/</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ludvigak.github.io/authors/mary-catherine-kropinski/</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ludvigak.github.io/authors/travis-askham/</loc>
     <lastmod>2019-08-20T00:00:00+00:00</lastmod>
   </url>
   

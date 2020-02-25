@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Ludvig af Klinteberg</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Ludvig af Klinteberg</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ludvigak.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Fast Integral Equation Method for the Two-Dimensional Navier-Stokes Equations</title>
+      <link>https://ludvigak.github.io/publication/2020-nse2d/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludvigak.github.io/publication/2020-nse2d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A parallel non-uniform fast Fourier transform library based on an &#34;exponential of semicircle&#34; kernel</title>
@@ -19,15 +28,6 @@
       
       <guid>https://ludvigak.github.io/publication/2019-finufft/</guid>
       <description>Copyright of final published version belongs Society for Industrial and Applied Mathematics.</description>
-    </item>
-    
-    <item>
-      <title>A Fast Integral Equation Method for the Two-Dimensional Navier-Stokes Equations</title>
-      <link>https://ludvigak.github.io/publication/2019-nse2d/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2019-nse2d/</guid>
-      <description></description>
     </item>
     
     <item>

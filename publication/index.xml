@@ -1,104 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Ludvig af Klinteberg</title>
-    <link>https://ludvigak.github.io/publication/</link>
-    <description>Recent content in Publications on Ludvig af Klinteberg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Ludvig af Klinteberg</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <title>Publications | Ludvig af Klinteberg</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
     
-	<atom:link href="https://ludvigak.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Accurate quadrature of nearly singular line integrals in two and three dimensions by singularity swapping</title>
+      <link>https://example.com/publication/2020-linequad/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020-linequad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Fast Integral Equation Method for the Two-Dimensional Navier-Stokes Equations</title>
-      <link>https://ludvigak.github.io/publication/2020-nse2d/</link>
+      <link>https://example.com/publication/2020-nse2d/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2020-nse2d/</guid>
+      <guid>https://example.com/publication/2020-nse2d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A parallel non-uniform fast Fourier transform library based on an &#34;exponential of semicircle&#34; kernel</title>
-      <link>https://ludvigak.github.io/publication/2019-finufft/</link>
+      <link>https://example.com/publication/2019-finufft/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2019-finufft/</guid>
-      <description>Copyright of final published version belongs Society for Industrial and Applied Mathematics.</description>
+      <guid>https://example.com/publication/2019-finufft/</guid>
+      <description>&lt;p&gt;Copyright of final published version belongs Society for Industrial and Applied Mathematics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>An adaptive kernel-split quadrature method for parameter-dependent layer potentials</title>
-      <link>https://ludvigak.github.io/publication/2019-largealphaquad/</link>
+      <link>https://example.com/publication/2019-largealphaquad/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2019-largealphaquad/</guid>
+      <guid>https://example.com/publication/2019-largealphaquad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Quadrature by Expansion for Layer Potential Evaluation in Two Dimensions</title>
-      <link>https://ludvigak.github.io/publication/2018-aqbx/</link>
+      <link>https://example.com/publication/2018-aqbx/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2018-aqbx/</guid>
-      <description>Copyright of final published version belongs Society for Industrial and Applied Mathematics.</description>
+      <guid>https://example.com/publication/2018-aqbx/</guid>
+      <description>&lt;p&gt;Copyright of final published version belongs Society for Industrial and Applied Mathematics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Fast Ewald summation for free-space Stokes potentials</title>
-      <link>https://ludvigak.github.io/publication/2016-fse/</link>
+      <link>https://example.com/publication/2016-fse/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2016-fse/</guid>
+      <guid>https://example.com/publication/2016-fse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Error estimation for quadrature by expansion in layer potential evaluation</title>
-      <link>https://ludvigak.github.io/publication/2017-quad/</link>
+      <link>https://example.com/publication/2017-quad/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2017-quad/</guid>
+      <guid>https://example.com/publication/2017-quad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fast integral equation method for solid particles in viscous flow using quadrature by expansion</title>
-      <link>https://ludvigak.github.io/publication/2016-qbx/</link>
+      <link>https://example.com/publication/2016-qbx/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2016-qbx/</guid>
+      <guid>https://example.com/publication/2016-qbx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ewald summation for the rotlet singularity of Stokes flow</title>
-      <link>https://ludvigak.github.io/publication/2016-rot/</link>
+      <link>https://example.com/publication/2016-rot/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2016-rot/</guid>
+      <guid>https://example.com/publication/2016-rot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An explicit Eulerian method for multiphase flow with contact line dynamics and insoluble surfactant</title>
-      <link>https://ludvigak.github.io/publication/2014-pug/</link>
+      <link>https://example.com/publication/2014-pug/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2014-pug/</guid>
+      <guid>https://example.com/publication/2014-pug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Ewald summation for Stokesian particle suspensions</title>
-      <link>https://ludvigak.github.io/publication/2014-ewald/</link>
+      <link>https://example.com/publication/2014-ewald/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludvigak.github.io/publication/2014-ewald/</guid>
+      <guid>https://example.com/publication/2014-ewald/</guid>
       <description></description>
     </item>
     

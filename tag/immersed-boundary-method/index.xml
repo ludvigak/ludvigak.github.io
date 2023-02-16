@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immersed boundary method | Ludvig af Klinteberg</title>
+    <link>https://example.com/tag/immersed-boundary-method/</link>
+      <atom:link href="https://example.com/tag/immersed-boundary-method/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immersed boundary method</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Immersed boundary method</title>
+      <link>https://example.com/tag/immersed-boundary-method/</link>
+    </image>
+    
+    <item>
+      <title>An explicit Eulerian method for multiphase flow with contact line dynamics and insoluble surfactant</title>
+      <link>https://example.com/publication/2014-pug/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2014-pug/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

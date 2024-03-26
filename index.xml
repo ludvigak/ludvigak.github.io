@@ -33,6 +33,38 @@
     </item>
     
     <item>
+      <title>Singularity swap quadrature for nearly singular line integrals on closed curves in two dimensions</title>
+      <link>https://example.com/publication/2024-trapzssq/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024-trapzssq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observability-Aware Online Multi-Lidar Extrinsic Calibration</title>
+      <link>https://example.com/publication/2023-calib/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-calib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive kernel-split quadrature method for parameter-dependent layer potentials</title>
+      <link>https://example.com/publication/2022-largealphaquad/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-largealphaquad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadrature error estimates for layer potentials evaluated near curved surfaces in three dimensions</title>
+      <link>https://example.com/publication/2022-quadest/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-quadest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -135,14 +167,6 @@
       <guid>https://example.com/publication/2019-finufft/</guid>
       <description>&lt;p&gt;Copyright of final published version belongs Society for Industrial and Applied Mathematics.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>An adaptive kernel-split quadrature method for parameter-dependent layer potentials</title>
-      <link>https://example.com/publication/2019-largealphaquad/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2019-largealphaquad/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -249,7 +273,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-891765342&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-152796483&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -259,7 +283,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-891765342&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-152796483&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
